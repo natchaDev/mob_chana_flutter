@@ -1,0 +1,59 @@
+{
+  "/": {
+    "name": "รูท"
+  },
+  "/main": {
+    "name": "เมน",
+    "next_page": "หน้าถัดไป",
+    "setting_page": "หน้าเซ็ตติ้ง"
+  },
+  "/home": {
+    "name": "โฮม"
+  },
+  "/setting": {
+    "name": "ตั้งค่า",
+    "language": "ภาษา",
+    "theme": "ธีม",
+    "lang_th": "ไทย",
+    "lang_en": "อังกฤษ",
+    "light_theme": "สว่าง",
+    "dark_theme": "มืด"
+  },
+  "/scores": {
+    "name": "สกอร์",
+    "first_tab": "แข่งขันสด",
+    "second_tab": "วันที่",
+    "third_tab": "ราคาต่องรอง",
+    "date_screen": "หน้าวันที่",
+    "onetwo_screen": "หน้าราคาต่อรอง"
+  },
+  "/live": {
+    "loading_screen": "กำลังโหลดข้อมูล...",
+    "none": "ว่าง"
+  },
+  "/onetwo" : {
+    "loading" : "กำลังโหลดข้อมูล..."
+  },
+  "/over_view": {
+    "vote": "โหวต",
+    "draw": "เสมอ",
+    "player": "ผู้เล่น",
+    "player_count": "จำนวนนักเตะ",
+    "foreign_count": "นักเตะต่างชาติ",
+    "coach": "โค้ช",
+    "location": "สถานที่",
+    "field_name": "สนามฟุตบอล",
+    "capacity": "ความจุ",
+    "city": "เมือง",
+    "1x2": "1x2",
+    "confirm_vote": "คุณยืนยันการโหวตทีม",
+    "start_season": "เริ่มต้นซีซั่น",
+    "end_season": "จบซีซั่น"
+  },
+  "app_name": "บอยเลอร์ เลพต ๒",
+  "loading" : "กำลังโหลดข้อมูล...",
+  "empty" : "ไม่มีข้อมูล...",
+  "confirm": "ยืนยัน",
+  "cancel": "ยกเลิก",
+  "person": "คน"
+}

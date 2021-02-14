@@ -1,0 +1,59 @@
+{
+  "/": {
+    "name": "Root"
+  },
+  "/main": {
+    "name": "Main",
+    "next_page": "Next Page",
+    "setting_page": "Setting Page"
+  },
+  "/home": {
+    "name": "Home"
+  },
+  "/setting": {
+    "name": "Setting",
+    "language": "Language",
+    "theme": "Theme",
+    "lang_th": "Thai",
+    "lang_en": "English",
+    "light_theme": "Light Theme",
+    "dark_theme": "Dark Theme"
+  },
+  "/scores": {
+    "name": "Scores",
+    "first_tab": "Live",
+    "second_tab": "Date",
+    "third_tab": "1x2",
+    "date_screen": "Date Screen",
+    "onetwo_screen": "OneTwo Screen"
+  },
+  "/live": {
+    "loading_screen": "loading...",
+    "none": "none"
+  },
+  "/onetwo": {
+    "loading": "loading..."
+  },
+  "/over_view": {
+    "vote": "Vote",
+    "draw": "Draw",
+    "player": "Player",
+    "player_count": "Player Count",
+    "foreign_count": "Foreign Count",
+    "coach": "Coach",
+    "location": "Location",
+    "field_name": "Field",
+    "capacity": "Capacity",
+    "city": "City",
+    "1x2": "1x2",
+    "confirm_vote": "You confirmed vote for",
+    "start_season": "Start Season",
+    "end_season": "End Season"
+  },
+  "app_name": "Boiler Plate 2",
+  "loading": "loading...",
+  "empty": "Empty...",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "person": "person"
+}
